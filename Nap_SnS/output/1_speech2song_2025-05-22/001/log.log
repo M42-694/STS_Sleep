@@ -1,0 +1,4 @@
+13.9093 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+14.1561 	WARNING 	keyboard.Keyboard already using '' backend. Can not switch to 'psychotoolbox'
+20.1675 	WARNING 	Monitor specification not found. Creating a temporary one...
+20.3796 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

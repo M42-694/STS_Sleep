@@ -1,0 +1,36 @@
+- params:
+    continue_key: return
+    continuous_record_after: 2
+    control_mode: key
+    interval_cross_sound: 1
+    interval_dur_rep: 0.5
+    n_breaks: 3
+    n_breaks_rep: 1
+    n_repeat: 8
+    rep_interval_cross_sound: 1
+    stimulus_folder: input/stimuli/
+    test_mode: true
+    test_n_stimulus: 4
+    types:
+    - song
+    - speech
+    volume: 0.5
+  timestamp: '2025-05-21 12:41:13'
+- params:
+    continue_key: return
+    continuous_record_after: 2
+    control_mode: key
+    interval_cross_sound: 1
+    interval_dur_rep: 0.5
+    n_breaks: 3
+    n_breaks_rep: 1
+    n_repeat: 8
+    rep_interval_cross_sound: 1
+    stimulus_folder: input/stimuli/
+    test_mode: true
+    test_n_stimulus: 4
+    types:
+    - song
+    - speech
+    volume: 0.55
+  timestamp: '2025-05-21 15:43:40'

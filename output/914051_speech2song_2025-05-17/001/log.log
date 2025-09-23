@@ -1,0 +1,92 @@
+12.8637 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+13.0580 	WARNING 	keyboard.Keyboard already using '' backend. Can not switch to 'psychotoolbox'
+15.5679 	WARNING 	Monitor specification not found. Creating a temporary one...
+16.7541 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+16.7546 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x1723aac50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x1723aacb0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1725718a0>, multiSample=False, name='window1', numSamples=2, pos=(356, 191), screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.7546 	EXP 	window1: backgroundImage = None
+16.7546 	EXP 	window1: backgroundFit = 'cover'
+16.7879 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Hello World', units='norm', win=Window(...), wrapWidth=1)
+16.8016 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.6)
+16.8043 	WARNING 	t of last frame was 50.22ms (=1/19)
+19.8163 	WARNING 	t of last frame was 3012.02ms (=1/0)
+19.8163 	EXP 	unnamed TextStim: height = 0.06
+19.8163 	EXP 	unnamed TextStim: height = 0.06
+19.8163 	EXP 	unnamed TextStim: height = 0.06
+19.8163 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+19.9178 	WARNING 	t of last frame was 101.52ms (=1/9)
+19.9178 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.0192 	WARNING 	t of last frame was 101.34ms (=1/9)
+20.0192 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.1203 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+20.1203 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.2214 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.3224 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.4235 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.5245 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.6260 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.7274 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.8290 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+20.9302 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.0313 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.1324 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.2334 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.3345 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.4355 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.5366 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.6377 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.7391 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.8407 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+21.9422 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.0437 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.1448 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.2458 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.3469 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.4479 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.5490 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.6500 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.7511 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.8525 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+22.9540 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.0555 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.1568 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.2579 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.3590 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.4600 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.5611 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.6621 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.7631 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.8646 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+23.9661 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.0672 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.1687 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.2698 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.3709 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.4719 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.5729 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.6741 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.7751 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.8761 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+24.9776 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.0790 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.1806 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.2820 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.3834 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.4845 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.5855 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.6866 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.7877 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.8887 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+25.9898 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.0913 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.1928 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.2939 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.3954 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.4967 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.5978 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.6989 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.7958 	DATA 	Keypress: space
+26.8002 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE to confirm'
+26.8075 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

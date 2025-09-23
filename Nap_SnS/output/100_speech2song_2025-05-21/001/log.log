@@ -1,0 +1,563 @@
+1.7227 	WARNING 	Requested audio device 'External Headphones' that is not available on this hardware. The 'audioDevice' preference should be one of ['MacBook Pro Speakers', 'ZoomAudioDevice']
+12.9244 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+13.1254 	WARNING 	keyboard.Keyboard already using '' backend. Can not switch to 'psychotoolbox'
+16.3491 	WARNING 	Monitor specification not found. Creating a temporary one...
+17.5416 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+17.5422 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x173aa1cf0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x173aa1c90>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1746c3580>, multiSample=False, name='window1', numSamples=2, pos=(356, 191), screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+17.5423 	EXP 	window1: backgroundImage = None
+17.5423 	EXP 	window1: backgroundFit = 'cover'
+17.6788 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Hello World', units='norm', win=Window(...), wrapWidth=1)
+17.6960 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.6)
+17.6993 	WARNING 	t of last frame was 158.21ms (=1/6)
+20.7118 	WARNING 	t of last frame was 3012.50ms (=1/0)
+20.7118 	EXP 	unnamed TextStim: height = 0.06
+20.7118 	EXP 	unnamed TextStim: height = 0.06
+20.7118 	EXP 	unnamed TextStim: height = 0.06
+20.7118 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+20.8132 	WARNING 	t of last frame was 101.45ms (=1/9)
+20.8132 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+20.9145 	WARNING 	t of last frame was 101.27ms (=1/9)
+20.9145 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.0156 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+21.0156 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.1166 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.2177 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.3187 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.4197 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.5207 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.6217 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.7228 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.8237 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+21.9247 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.0258 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.1268 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.2279 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.3289 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.4299 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.5310 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.6321 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.7331 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.8340 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+22.9350 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.0360 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.1371 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.2381 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.3391 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.4402 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.5413 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.6422 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.7433 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.8442 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+23.9452 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.0462 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.1472 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.2483 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.3493 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.4503 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.5513 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.6524 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.7534 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.8545 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+24.9555 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.0565 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.1575 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.1969 	DATA 	Keypress: up
+25.2588 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.3154 	EXP 	Sound  reached end of file
+25.3154 	EXP 	Sound  started
+25.4197 	EXP 	unnamed TextStim: height = 0.06
+25.4197 	EXP 	unnamed TextStim: height = 0.06
+25.4197 	EXP 	unnamed TextStim: height = 0.06
+25.4197 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.5209 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.6220 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.7230 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.8240 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+25.9250 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.0261 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.1271 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.2282 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.3292 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.4302 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.5312 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.6324 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.7336 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.8345 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.9356 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.0366 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.1376 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.2386 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.3397 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.4407 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.5419 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.6431 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.7446 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.8457 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.9470 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.0482 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.1494 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.2505 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.3515 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.4526 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.5536 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.6547 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.7557 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.8566 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+28.9577 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.0587 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.1597 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.2602 	DATA 	Keypress: up
+29.2612 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.2622 	EXP 	Sound  reached end of file
+29.2622 	EXP 	Sound  started
+29.3671 	EXP 	unnamed TextStim: height = 0.06
+29.3671 	EXP 	unnamed TextStim: height = 0.06
+29.3671 	EXP 	unnamed TextStim: height = 0.06
+29.3671 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.4680 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.5690 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.6699 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.7709 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.8719 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+29.9728 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.0738 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.1749 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.2759 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.3769 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.4780 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.5790 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.6801 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.7811 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.8119 	DATA 	Keypress: right
+30.8821 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+30.8853 	EXP 	Sound  reached end of file
+30.8853 	EXP 	Sound  started
+30.9902 	EXP 	unnamed TextStim: height = 0.06
+30.9902 	EXP 	unnamed TextStim: height = 0.06
+30.9902 	EXP 	unnamed TextStim: height = 0.06
+30.9902 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.0914 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.1925 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.2935 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.3945 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.4956 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.5966 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.6977 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.7987 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.8399 	DATA 	Keypress: down
+31.8999 	EXP 	unnamed TextStim: text = 'Volume: 0.60\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+31.9006 	EXP 	Sound  reached end of file
+31.9006 	EXP 	Sound  started
+32.0047 	EXP 	unnamed TextStim: height = 0.06
+32.0047 	EXP 	unnamed TextStim: height = 0.06
+32.0047 	EXP 	unnamed TextStim: height = 0.06
+32.0047 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.1058 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.2068 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.3078 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.3197 	DATA 	Keypress: down
+32.4088 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.4098 	EXP 	Sound  reached end of file
+32.4098 	EXP 	Sound  started
+32.5136 	EXP 	unnamed TextStim: height = 0.06
+32.5136 	EXP 	unnamed TextStim: height = 0.06
+32.5136 	EXP 	unnamed TextStim: height = 0.06
+32.5136 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.6146 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.7156 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.8166 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+32.9176 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+33.0186 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+33.1197 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+33.2207 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+33.3217 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+33.4165 	DATA 	Keypress: space
+33.4230 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0019.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+33.4425 	WARNING 	Monitor specification not found. Creating a temporary one...
+34.5332 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+34.5337 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x173aa1cf0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x173aa1c90>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x177713c10>, multiSample=False, name='window1', numSamples=2, pos=(116, 131), screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='pix', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+34.5338 	EXP 	window1: backgroundImage = None
+34.5338 	EXP 	window1: backgroundFit = 'cover'
+34.5409 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([-1, -1, -1]), lineColorSpace='rgb', lineRGB=array([-1, -1, -1]), lineWidth=1.5, name='unnamed ShapeStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([64., 64.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+34.5417 	EXP 	Created slider_shape = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1, name='slider_shape', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1408.,  720.]), units='pix', vertices=ndarray(...), win=Window(...))
+34.6720 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+34.7790 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+34.8675 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+34.9517 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+35.0429 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+35.1283 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+35.2221 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+35.3101 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+35.3391 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Helvetica Bold', granularity=0.1, labelColor=None, labelHeight=36.0, labelWrapWidth=None, labels=list(...), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1280.,   72.]), startValue=None, style=['rating'], styleTweaks=[], ticks=array([1, 2, 3, 4]), units='pix', win=Window(...))
+35.3583 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+35.3612 	WARNING 	t of last frame was 828.30ms (=1/1)
+35.3612 	EXP 	slider: autoLog = True
+35.3612 	EXP 	slider: styleTweaks = []
+35.3612 	EXP 	slider: styleTweaks = []
+35.3612 	EXP 	slider: styleTweaks = []
+35.3612 	EXP 	slider: styleTweaks = []
+35.3612 	EXP 	slider: contrast = 1.0
+35.3612 	EXP 	slider: markerPos = None
+35.3612 	EXP 	slider: autoLog = True
+35.3612 	EXP 	unnamed TextStim: autoDraw = True
+36.4807 	DATA 	Keypress: return
+36.4828 	WARNING 	t of last frame was 1121.62ms (=1/0)
+36.4828 	EXP 	unnamed TextStim: autoDraw = False
+36.4910 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+36.4928 	EXP 	unnamed TextStim: autoDraw = True
+37.0875 	DATA 	Keypress: return
+37.0889 	WARNING 	t of last frame was 596.10ms (=1/1)
+37.0889 	EXP 	unnamed TextStim: autoDraw = False
+37.1907 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+37.1930 	WARNING 	t of last frame was 104.09ms (=1/9)
+37.1930 	EXP 	unnamed TextStim: autoDraw = True
+37.5678 	DATA 	Keypress: return
+38.3526 	DATA 	Keypress: return
+38.3555 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+38.3610 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+38.3610 	EXP 	unnamed TextStim: autoDraw = False
+38.3610 	EXP 	unnamed TextStim: autoDraw = True
+38.7936 	DATA 	Keypress: return
+39.2364 	DATA 	Keypress: return
+39.2379 	EXP 	unnamed TextStim: autoDraw = False
+39.2434 	EXP 	unnamed ShapeStim: autoDraw = True
+40.2439 	EXP 	Sound  reached end of file
+40.2439 	EXP 	Sound  started
+42.4290 	EXP 	unnamed ShapeStim: autoDraw = False
+42.4367 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+42.6593 	EXP 	slider: markerPos = None
+42.6593 	EXP 	slider: markerPos = None
+42.6593 	EXP 	slider: markerPos = 2.5
+42.6593 	EXP 	unnamed TextStim: autoDraw = True
+42.6593 	EXP 	slider: autoDraw = True
+43.2793 	DATA 	Keypress: right
+43.3213 	EXP 	slider: markerPos = 3.0
+43.3598 	EXP 	slider: markerPos = 3.5
+44.3510 	DATA 	Keypress: return
+45.1979 	DATA 	Keypress: return
+45.3419 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+45.3589 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+45.3611 	EXP 	slider_shape: autoDraw = False
+45.3611 	EXP 	slider: autoDraw = False
+45.3611 	EXP 	unnamed TextStim: autoDraw = False
+45.3611 	EXP 	slider: markerPos = None
+45.3611 	EXP 	slider: markerPos = None
+45.3611 	EXP 	slider: markerPos = 3.5
+45.3611 	EXP 	unnamed TextStim: autoDraw = True
+45.3611 	EXP 	slider: autoDraw = True
+45.3611 	EXP 	slider_shape: autoDraw = False
+45.3611 	EXP 	slider: autoDraw = False
+45.3611 	EXP 	unnamed TextStim: autoDraw = False
+45.3611 	EXP 	unnamed TextStim: autoDraw = True
+45.9852 	DATA 	Keypress: return
+46.0044 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+46.0061 	EXP 	unnamed TextStim: autoDraw = False
+46.0061 	EXP 	unnamed TextStim: autoDraw = True
+46.5024 	DATA 	Keypress: return
+47.3778 	DATA 	Keypress: return
+47.3803 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+47.3868 	EXP 	unnamed TextStim: autoDraw = False
+47.3868 	EXP 	unnamed TextStim: autoDraw = True
+47.8790 	DATA 	Keypress: return
+48.3793 	DATA 	Keypress: return
+48.3811 	EXP 	unnamed TextStim: autoDraw = False
+48.3836 	EXP 	unnamed ShapeStim: autoDraw = True
+49.2116 	DATA 	Keypress: escape
+49.3841 	EXP 	Sound  reached end of file
+49.3842 	EXP 	Sound  started
+51.1933 	DATA 	Keypress: escape
+51.7749 	EXP 	unnamed ShapeStim: autoDraw = False
+51.7780 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+52.0127 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+1.8705 	WARNING 	Requested audio device 'External Headphones' that is not available on this hardware. The 'audioDevice' preference should be one of ['MacBook Pro Speakers', 'ZoomAudioDevice']
+13.2554 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+13.5008 	WARNING 	keyboard.Keyboard already using '' backend. Can not switch to 'psychotoolbox'
+21.9604 	WARNING 	Monitor specification not found. Creating a temporary one...
+23.1391 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+23.1394 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x17258e440>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x17258e4d0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x172403760>, multiSample=False, name='window1', numSamples=2, pos=(356, 191), screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+23.1395 	EXP 	window1: backgroundImage = None
+23.1395 	EXP 	window1: backgroundFit = 'cover'
+23.1688 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Hello World', units='norm', win=Window(...), wrapWidth=1)
+23.1816 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.6)
+23.1841 	WARNING 	t of last frame was 45.09ms (=1/22)
+24.7721 	DATA 	Keypress: up
+26.1961 	WARNING 	t of last frame was 3012.05ms (=1/0)
+26.1961 	EXP 	unnamed TextStim: height = 0.06
+26.1961 	EXP 	unnamed TextStim: height = 0.06
+26.1961 	EXP 	unnamed TextStim: height = 0.06
+26.1961 	EXP 	unnamed TextStim: text = 'Volume: 0.50\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.2477 	EXP 	Sound  reached end of file
+26.2477 	EXP 	Sound  started
+26.3522 	WARNING 	t of last frame was 156.11ms (=1/6)
+26.3522 	EXP 	unnamed TextStim: height = 0.06
+26.3522 	EXP 	unnamed TextStim: height = 0.06
+26.3522 	EXP 	unnamed TextStim: height = 0.06
+26.3522 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.4534 	WARNING 	t of last frame was 101.22ms (=1/9)
+26.4534 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.5546 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+26.5546 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.6556 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.7567 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.8578 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+26.9589 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.0600 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.1611 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.2622 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.3632 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.4643 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.5648 	DATA 	Keypress: space
+27.5663 	EXP 	unnamed TextStim: text = 'Volume: 0.55\nPhrase: UvA0016.wav\n\nUse UP/DOWN to change volume\nLEFT/RIGHT to change phrase\nPress SPACE only to finally confirm'
+27.5832 	WARNING 	Monitor specification not found. Creating a temporary one...
+28.6628 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+28.6631 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x17258e440>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x17258e4d0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x175537880>, multiSample=False, name='window1', numSamples=2, pos=(116, 131), screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='pix', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+28.6631 	EXP 	window1: backgroundImage = None
+28.6631 	EXP 	window1: backgroundFit = 'cover'
+28.6688 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([-1, -1, -1]), lineColorSpace='rgb', lineRGB=array([-1, -1, -1]), lineWidth=1.5, name='unnamed ShapeStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([64., 64.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+28.6695 	EXP 	Created slider_shape = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1, name='slider_shape', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1408.,  720.]), units='pix', vertices=ndarray(...), win=Window(...))
+28.9285 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+29.1218 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+29.3267 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+29.4951 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+29.6499 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+29.8138 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+29.9754 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+30.1663 	WARNING 	Font b'Helvetica Bold' was requested. No similar font found.
+30.1926 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Helvetica Bold', granularity=0.1, labelColor=None, labelHeight=36.0, labelWrapWidth=None, labels=list(...), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1280.,   72.]), startValue=None, style=['rating'], styleTweaks=[], ticks=array([1, 2, 3, 4]), units='pix', win=Window(...))
+30.2121 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+30.2185 	WARNING 	t of last frame was 1555.81ms (=1/0)
+30.2185 	EXP 	slider: autoLog = True
+30.2185 	EXP 	slider: styleTweaks = []
+30.2185 	EXP 	slider: styleTweaks = []
+30.2185 	EXP 	slider: styleTweaks = []
+30.2185 	EXP 	slider: styleTweaks = []
+30.2185 	EXP 	slider: contrast = 1.0
+30.2185 	EXP 	slider: markerPos = None
+30.2185 	EXP 	slider: autoLog = True
+30.2185 	EXP 	unnamed TextStim: autoDraw = True
+31.6591 	DATA 	Keypress: return
+31.6639 	WARNING 	t of last frame was 1445.33ms (=1/0)
+31.6639 	EXP 	unnamed TextStim: autoDraw = False
+31.6714 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+31.6732 	EXP 	unnamed TextStim: autoDraw = True
+34.8412 	DATA 	Keypress: return
+34.8459 	WARNING 	t of last frame was 3172.77ms (=1/0)
+34.8459 	EXP 	unnamed TextStim: autoDraw = False
+34.9420 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+34.9445 	WARNING 	t of last frame was 98.52ms (=1/10)
+34.9445 	EXP 	unnamed TextStim: autoDraw = True
+35.8771 	DATA 	Keypress: return
+35.8796 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+35.8813 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+35.8813 	EXP 	unnamed TextStim: autoDraw = False
+35.8813 	EXP 	unnamed TextStim: autoDraw = True
+36.6808 	DATA 	Keypress: return
+36.6828 	EXP 	unnamed TextStim: autoDraw = False
+36.6864 	EXP 	unnamed ShapeStim: autoDraw = True
+37.6869 	EXP 	Sound  reached end of file
+37.6869 	EXP 	Sound  started
+39.8720 	EXP 	unnamed ShapeStim: autoDraw = False
+39.8783 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+39.9929 	EXP 	slider: markerPos = None
+39.9929 	EXP 	slider: markerPos = None
+39.9929 	EXP 	slider: markerPos = 2.5
+39.9929 	EXP 	unnamed TextStim: autoDraw = True
+39.9929 	EXP 	slider: autoDraw = True
+60.3565 	DATA 	Keypress: right
+60.3618 	EXP 	slider: markerPos = 3.0
+60.4009 	EXP 	slider: markerPos = 3.5
+61.3433 	DATA 	Keypress: left
+61.3618 	EXP 	slider: markerPos = 3.0
+62.3583 	DATA 	Keypress: return
+63.3494 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+63.3552 	EXP 	slider_shape: autoDraw = False
+63.3552 	EXP 	slider: autoDraw = False
+63.3552 	EXP 	unnamed TextStim: autoDraw = False
+63.3552 	EXP 	slider: markerPos = None
+63.3552 	EXP 	slider: markerPos = None
+63.3552 	EXP 	slider: markerPos = 3.0
+63.3552 	EXP 	unnamed TextStim: autoDraw = True
+63.3552 	EXP 	slider: autoDraw = True
+63.4278 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+63.4289 	DATA 	Keypress: return
+63.4300 	EXP 	slider_shape: autoDraw = False
+63.4300 	EXP 	slider: autoDraw = False
+63.4300 	EXP 	unnamed TextStim: autoDraw = False
+63.4300 	EXP 	unnamed TextStim: autoDraw = True
+64.2184 	DATA 	Keypress: return
+64.2346 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+64.2364 	EXP 	unnamed TextStim: autoDraw = False
+64.2364 	EXP 	unnamed TextStim: autoDraw = True
+68.9489 	DATA 	Keypress: return
+68.9513 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+68.9581 	EXP 	unnamed TextStim: autoDraw = False
+68.9581 	EXP 	unnamed TextStim: autoDraw = True
+69.5112 	DATA 	Keypress: return
+69.5131 	EXP 	unnamed TextStim: autoDraw = False
+69.5147 	EXP 	unnamed ShapeStim: autoDraw = True
+70.5153 	EXP 	Sound  reached end of file
+70.5154 	EXP 	Sound  started
+72.9060 	EXP 	unnamed ShapeStim: autoDraw = False
+72.9093 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+72.9178 	EXP 	slider: markerPos = None
+72.9178 	EXP 	slider: markerPos = None
+72.9178 	EXP 	slider: markerPos = 2.5
+72.9178 	EXP 	unnamed TextStim: autoDraw = True
+72.9178 	EXP 	slider: autoDraw = True
+75.4712 	DATA 	Keypress: return
+76.4619 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+76.4680 	EXP 	slider_shape: autoDraw = False
+76.4680 	EXP 	slider: autoDraw = False
+76.4680 	EXP 	unnamed TextStim: autoDraw = False
+76.4680 	EXP 	slider: markerPos = None
+76.4680 	EXP 	slider: markerPos = None
+76.4680 	EXP 	slider: markerPos = 2.5
+76.4680 	EXP 	unnamed TextStim: autoDraw = True
+76.4680 	EXP 	slider: autoDraw = True
+77.4164 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+77.4181 	DATA 	Keypress: return
+77.4201 	EXP 	slider_shape: autoDraw = False
+77.4201 	EXP 	slider: autoDraw = False
+77.4201 	EXP 	unnamed TextStim: autoDraw = False
+77.4201 	EXP 	unnamed TextStim: autoDraw = True
+78.8833 	DATA 	Keypress: return
+78.9023 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+78.9074 	EXP 	unnamed TextStim: autoDraw = False
+78.9074 	EXP 	unnamed TextStim: autoDraw = True
+80.1421 	DATA 	Keypress: return
+80.1443 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+80.1492 	EXP 	unnamed TextStim: autoDraw = False
+80.1492 	EXP 	unnamed TextStim: autoDraw = True
+80.6463 	DATA 	Keypress: return
+84.1832 	DATA 	Keypress: return
+84.1881 	EXP 	unnamed TextStim: autoDraw = False
+84.1900 	EXP 	unnamed ShapeStim: autoDraw = True
+85.1905 	EXP 	Sound  reached end of file
+85.1905 	EXP 	Sound  started
+87.6438 	EXP 	unnamed ShapeStim: autoDraw = False
+87.6468 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+87.6552 	EXP 	slider: markerPos = None
+87.6552 	EXP 	slider: markerPos = None
+87.6552 	EXP 	slider: markerPos = 2.5
+87.6552 	EXP 	unnamed TextStim: autoDraw = True
+87.6552 	EXP 	slider: autoDraw = True
+133.0889 	DATA 	Keypress: right
+133.1202 	EXP 	slider: markerPos = 3.0
+175.6994 	DATA 	Keypress: return
+176.7232 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+176.7290 	EXP 	slider_shape: autoDraw = False
+176.7290 	EXP 	slider: autoDraw = False
+176.7290 	EXP 	unnamed TextStim: autoDraw = False
+176.7290 	EXP 	slider: markerPos = None
+176.7290 	EXP 	slider: markerPos = None
+176.7290 	EXP 	slider: markerPos = 3.0
+176.7290 	EXP 	unnamed TextStim: autoDraw = True
+176.7290 	EXP 	slider: autoDraw = True
+271.0433 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+271.0450 	DATA 	Keypress: return
+271.0471 	EXP 	slider_shape: autoDraw = False
+271.0471 	EXP 	slider: autoDraw = False
+271.0471 	EXP 	unnamed TextStim: autoDraw = False
+271.0471 	EXP 	unnamed TextStim: autoDraw = True
+276.6044 	DATA 	Keypress: return
+276.6211 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+276.6264 	EXP 	unnamed TextStim: autoDraw = False
+276.6264 	EXP 	unnamed TextStim: autoDraw = True
+277.7139 	DATA 	Keypress: return
+277.7160 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+277.7212 	EXP 	unnamed TextStim: autoDraw = False
+277.7212 	EXP 	unnamed TextStim: autoDraw = True
+278.3309 	DATA 	Keypress: return
+278.3323 	EXP 	unnamed TextStim: autoDraw = False
+278.3339 	EXP 	unnamed ShapeStim: autoDraw = True
+279.3345 	EXP 	Sound  reached end of file
+279.3345 	EXP 	Sound  started
+281.3979 	EXP 	unnamed ShapeStim: autoDraw = False
+281.4008 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+281.4091 	EXP 	slider: markerPos = None
+281.4091 	EXP 	slider: markerPos = None
+281.4091 	EXP 	slider: markerPos = 2.5
+281.4091 	EXP 	unnamed TextStim: autoDraw = True
+281.4091 	EXP 	slider: autoDraw = True
+289.7713 	DATA 	Keypress: right
+289.7826 	EXP 	slider: markerPos = 3.0
+289.8220 	EXP 	slider: markerPos = 3.5
+289.8695 	EXP 	slider: markerPos = 4.0
+290.2823 	DATA 	Keypress: left
+290.3215 	EXP 	slider: markerPos = 3.5
+290.3694 	EXP 	slider: markerPos = 3.0
+292.3656 	DATA 	Keypress: return
+293.3858 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+293.3915 	EXP 	slider_shape: autoDraw = False
+293.3915 	EXP 	slider: autoDraw = False
+293.3915 	EXP 	unnamed TextStim: autoDraw = False
+293.3915 	EXP 	slider: markerPos = None
+293.3915 	EXP 	slider: markerPos = None
+293.3915 	EXP 	slider: markerPos = 3.0
+293.3915 	EXP 	unnamed TextStim: autoDraw = True
+293.3915 	EXP 	slider: autoDraw = True
+293.9795 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+293.9811 	DATA 	Keypress: return
+293.9831 	EXP 	slider_shape: autoDraw = False
+293.9831 	EXP 	slider: autoDraw = False
+293.9831 	EXP 	unnamed TextStim: autoDraw = False
+293.9831 	EXP 	unnamed TextStim: autoDraw = True
+295.1417 	DATA 	Keypress: return
+295.1471 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+295.1485 	EXP 	unnamed TextStim: autoDraw = False
+295.1485 	EXP 	unnamed TextStim: autoDraw = True
+295.5815 	DATA 	Keypress: return
+296.2984 	DATA 	Keypress: return
+296.3015 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+296.3077 	EXP 	unnamed TextStim: autoDraw = False
+296.3077 	EXP 	unnamed TextStim: autoDraw = True
+297.0823 	DATA 	Keypress: return
+297.0889 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+297.0907 	EXP 	unnamed TextStim: autoDraw = False
+297.0907 	EXP 	unnamed TextStim: autoDraw = True
+297.8198 	DATA 	Keypress: return
+297.8217 	EXP 	unnamed TextStim: autoDraw = False
+300.3453 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+300.3506 	EXP 	unnamed TextStim: autoDraw = True
+300.9918 	DATA 	Keypress: return
+300.9936 	EXP 	unnamed TextStim: autoDraw = False
+300.9952 	EXP 	unnamed ShapeStim: autoDraw = True
+301.9953 	EXP 	Sound  reached end of file
+301.9954 	EXP 	Sound  started
+301.9972 	EXP 	unnamed ShapeStim: autoDraw = False
+302.0000 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=64.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([  0., 216.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=2560.0)
+302.0086 	EXP 	slider: markerPos = None
+302.0086 	EXP 	slider: markerPos = None
+302.0086 	EXP 	slider: markerPos = 2.5
+302.0086 	EXP 	unnamed TextStim: autoDraw = True
+302.0086 	EXP 	slider: autoDraw = True
+306.9154 	DATA 	Keypress: right
+306.9224 	EXP 	slider: markerPos = 3.0
+308.2829 	DATA 	Keypress: right
+308.2960 	EXP 	slider: markerPos = 3.5
+308.3445 	EXP 	slider: markerPos = 4.0
+309.0962 	DATA 	Keypress: left
+309.1320 	EXP 	slider: markerPos = 3.5
+310.0503 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+1.8229 	WARNING 	Requested audio device 'External Headphones' that is not available on this hardware. The 'audioDevice' preference should be one of ['MacBook Pro Speakers', 'ZoomAudioDevice']
+13.1441 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+13.3255 	WARNING 	keyboard.Keyboard already using '' backend. Can not switch to 'psychotoolbox'
+26.3218 	WARNING 	Monitor specification not found. Creating a temporary one...
+26.5075 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+1.8647 	WARNING 	Requested audio device 'External Headphones' that is not available on this hardware. The 'audioDevice' preference should be one of ['MacBook Pro Speakers', 'ZoomAudioDevice']
+13.3361 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+13.5400 	WARNING 	keyboard.Keyboard already using '' backend. Can not switch to 'psychotoolbox'
+77.9564 	WARNING 	Monitor specification not found. Creating a temporary one...
+78.1388 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
