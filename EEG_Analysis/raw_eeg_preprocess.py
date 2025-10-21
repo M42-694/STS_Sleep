@@ -80,7 +80,17 @@ for sub in sub_names:
               
     export_raw(export_file, raw, fmt="edf", physical_range=(-32768, 32767),overwrite=True)
     print(f"EDF file for {sub} exported successfully")   
-         
+    
+    channel_types = {'HEOG': 'eog', 'VEOG': 'eog' 'EMG1': 'emg'}
+    raw.set_channel_types(channel_types)
+
+    # Check channel indices
+    eog_indices = mne.pick_types(raw.info, meg=False, eog=True)
+    logging.info(f"Number of EOG channels: {mne.pick_info(raw.info, eog_indices)['nchan']}")
+
+    emg_indices = mne.pick_types(raw.info, meg=False, emg=True)
+    logging.info(f"Number of EMG channels: {mne.pick_info(raw.info, emg_indices)['nchan']}")
+
     # Cleaned label (removes spacing inconsistencies)
     label_1 = 'Stimulus/S  1'
     label_9 = 'Stimulus/S  9'
