@@ -1,0 +1,10 @@
+project_name: "STS_Nap_250226"
+data_root: "/ABSOLUTE/PATH/TO/YOUR/DATA"
+bids_root: "{data_root}/BIDS"
+deriv_root: "{data_root}/derivatives"
+logs_root: "{deriv_root}/logs"
+report_root: "{deriv_root}/reports"
+errors_root: "{deriv_root}/errors"
+
+#for the sleep stage annotated fif file
+sleep_annotations_root: "{data_root}/SleepAnnotations"

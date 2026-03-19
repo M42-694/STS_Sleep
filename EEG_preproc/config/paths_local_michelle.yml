@@ -1,0 +1,23 @@
+# ===============================
+# Local machine paths configuration
+# ===============================
+project_name: "STS_Nap_250226"
+
+#Parent Data Root Directory: All BIDS standardised EEG files are saved here
+data_root: "/Users/michelle.george/Desktop/Speech2Song/Recordings/"
+#BIDS-compliant data directory
+bids_root: "{data_root}/BIDS"
+#Derivatives root (preprocessed outputs for Behavioral and EEG)
+deriv_root: "{data_root}/derivatives"
+
+#sleep_stage annotated fif files direcrtory
+sleep_annotations_root: "{data_root}/SleepAnnotations"
+#Add-ons: log root directory (for output logs)
+logs_root: "{deriv_root}/logs"
+
+#Add-ons: report log directory (for MNE reports)
+report_root: "{deriv_root}/reports"
+
+#Add-ons: error log directory (specifically saves the error messages)
+errors_root: "{deriv_root}/errors"
+

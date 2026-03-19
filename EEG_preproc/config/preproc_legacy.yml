@@ -1,0 +1,139 @@
+name: "preproc_legacy"
+
+# MNE report settings
+
+# =====================================
+# MNE INIT REPORT parameters 
+# =====================================
+report:
+
+  create: true
+
+  psd_fmax: 45
+
+  raw_browser_duration: 20
+
+# =====================================
+# FILTERING parameters 
+# =====================================
+
+filter:
+  #filtering parameters
+  notch_freqs: [50,150]
+  #bandpass parameters
+  l_freq: 0.1
+  h_freq: 45.0
+  #filter design parameters
+  method: "fir"
+  phase: "zero"
+
+  #resampling parameters
+  resample_sfreq: 250.0
+  # resample_method: "polyphase"
+
+# =====================================
+# EPOCHING parameters 
+# =====================================
+
+epoching:
+
+  segment_length: 10.0
+  scoring_window: 30.0
+
+  group_map:
+    W: Group1
+    N1: Group2
+    N2: Group2
+    N3: Group2
+    R: Group2
+
+  groups:
+    Group1:
+      labels: ["W"]
+
+    Group2:
+      labels: ["N1", "N2", "N3", "R"]
+
+# =====================================
+# Referencing parameters
+# =====================================
+
+reference:
+  method: average
+  
+# =====================================
+# NICE parameters based on Epochs
+# =====================================
+
+cleaning:
+  group1:
+    method: "adaptive"
+    reject: 100 #general threshold for mainly epoch. 
+    min_events: 0.3
+    min_channels: 0.4
+    n_epochs_bad_ch: 0.3 #epoch
+    n_channels_bad_epoch: 0.1 #epoch
+    zscore_thresh: 2 #channel 
+    max_iter: 4
+
+  group2:
+    method: "adaptive"
+    reject: 200
+    min_events: 0.3
+    min_channels: 0.4
+    n_epochs_bad_ch: 0.3 #epoch
+    n_channels_bad_epoch: 0.1 #epoch
+    zscore_thresh: 2 #channel 
+    max_iter: 4
+
+  eeg_reference:
+    type: average
+    projection: false
+    
+# =====================================
+# ICA parameters
+# =====================================
+
+ica:
+  method: infomax
+  extended: true
+  n_components: 15 # can play around with. 
+  random_state: 97
+  max_iter: auto
+
+  fit_filter:
+    l_freq: 1.0
+    h_freq: null
+
+  exclude_labels:
+    - eye blink
+    - channel noise
+
+  # segmentation: #add for specific subjects
+  #   use_annotations: true
+  #   mapping:
+  #     Wake1:
+  #       label: "WAKE1"
+  #     Nap:
+  #       label: "NAP"
+  #     Wake2:
+  #       label: "WAKE2"
+  #     Passive:
+  #       label: "PASSIVE"
+
+  #only for specific subjects!!! Don'T USE FOR ALL SUBJECTS
+  # phases: #add for specific subjects
+  #   use_annotations: false
+  #   mapping:
+  #     Wake1:
+  #       tmin: 0
+  #       tmax: 900
+  #     Nap:
+  #       tmin: 900
+  #       tmax: 5400
+  #     Wake2:
+  #       tmin: 5400
+  #       tmax: 6300
+  #     Passive:
+  #       tmin: 6300
+  #       tmax: 7200
