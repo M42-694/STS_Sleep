@@ -106,8 +106,8 @@ for sub in sub_names:
     #     raise ValueError("Less than 2 occurrences of one or both annotation labels.")
     
     # Get the second occurrences
-    tmin = onsets_1[2]
-    tmax = onsets_9[1]
+    tmin = onsets_1[0] # here I manually changed the index chosen since many subs had onset_1 missing at the start of recording. so it would be onsets_1[1]
+    tmax = onsets_9[1] # there were cases where onsets_9 were missing at the end of nap recording due to script crash / manual script end. 
     
     # Crop the raw data between those two onsets
     raw_cropped = raw.copy().crop(tmin=tmin, tmax=tmax)
